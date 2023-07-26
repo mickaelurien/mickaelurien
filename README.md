@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mickaël</h1>
+<h1 align="center">Hi 👋, I'm Mickaël <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg/800px-Flag_of_Brittany_%28Gwenn_ha_du%29.svg.png" alt="drapeau_breton"/> </h1> 
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 - 👨‍💻 All of my projects are available at [https://mickaelurien.fr](https://mickaelurien.fr)
 
 - 📫 How to reach me **mickael.urien1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mickaël-urien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickaël-urien" height="30" width="40" /></a>
 </p>
