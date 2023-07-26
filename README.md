@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mickaël <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg/800px-Flag_of_Brittany_%28Gwenn_ha_du%29.svg.png" alt="drapeau_breton"/> </h1> 
+<h1 align="center">Hi 👋, I'm Mickaël <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg/800px-Flag_of_Brittany_%28Gwenn_ha_du%29.svg.png" alt="drapeau_breton"/> </h1> 
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 - 👨‍💻 All of my projects are available at [https://mickaelurien.fr](https://mickaelurien.fr)
